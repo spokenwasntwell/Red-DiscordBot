@@ -1,0 +1,45 @@
+{
+    "scarlet-cogs" : {
+        "capspam" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\capspam\\capspam.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\capspam"
+        },
+        "commandspice" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\commandspice\\commandspice.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\commandspice"
+        },
+        "fun" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\fun\\fun.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\fun"
+        },
+        "grammar" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\grammar\\grammar.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\grammar"
+        },
+        "kaomoji" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\kaomoji\\kaomoji.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\kaomoji"
+        },
+        "overwatch" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\overwatch\\overwatch.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\overwatch"
+        },
+        "pepe" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\pepe\\pepe.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\pepe"
+        },
+        "titlecase" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\scarlet-cogs\\titlecase\\titlecase.py",
+            "folder" : "data\\downloader\\scarlet-cogs\\titlecase"
+        },
+        "url" : "https://github.com/ScarletRav3n/Scarlet-Cogs"
+    }
+}
